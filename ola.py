@@ -416,7 +416,23 @@ def q02L2():
     n1 = float(input("Coloque qualquer numero:"))
     n2 = float(input("Coloque qualquer numero:"))
 
- 
-      
-q02L2()
-    
+def q04l2():
+    n1 = int(input("Digite um número:"))
+    é_divisivel_por_5 = errado 
+    if(o numero % 5) = 0  
+    é_divisivel_por_5 = certo 
+
+    if( é_divisivel_por_5 )
+
+def q06l2():
+    salario = float(input("Qual o seu salario bruto?:"))
+    prestação = float(input("Qual será o valor da prestação?:"))
+
+    liquido = bruto - bruto*0.09
+    limite = 0.3*limite 
+    if prest <= limite: 
+        print (f'O emprestimo pode ser concedido!')
+else:
+        print (f'O emprestimo não pode ser concedido')
+
+q06l2():
