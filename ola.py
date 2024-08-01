@@ -489,12 +489,12 @@ q02()
 def q02(): 
 
     lista = []
-    for x in range(10):
-        lista.append(chr(random.randrange(65,91)))
+    for x in range(15):
+        lista.append(chr(random.randrange(1,15)))
     cont = 0
     for letra in lista:
-        print(f'{cont}: {letra}')
-        cont+=1
+        print(f'{par}: {impar}')
+        cont+=1 
 q02()
 
 #4. Faça um programa que armazene 8 números em uma lista e imprima todos os
