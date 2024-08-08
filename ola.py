@@ -511,12 +511,39 @@ q02()
 #listagem numerada com o salário e o novo salário. Declare quantas listas forem
 #necessárias.
 
+def q06():
+    pessoas = [] 
+    for _ in range(3):
+        pessoa = dict()
+        pessoa [ "nome" ] = input ('nome: ') 
+        pessoa [ 'salario' ] = float(imput('salario: ')}
+        pessoa [ 'salario_nome' ] = pessoa [ ' salario ' ] = 1.08 
+        pessoas.append (pessoa) 
+
+print('NOME\tSA\t\tSAL_NOME') 
+for p in pessoas: 
+    print(f'`{p[ "nome"]}\tR$ { p[" salario "]} R$ salario_novo"]}')
+                                                                                                                                               
+
 #7. Crie umprograma que leia o preço de compra e o preço de venda de 100 mercadorias
 #(utilize listas). Ao final, o programa deverá imprimir quantas mercadorias
 #proporcionam:
 #• lucro < 10%
 #• 10% <= lucro <= 20%
 #• lucro > 20%
+
+def q07(): 
+    venda = [] 
+    for _ in range (3) 
+        lucro < 10% _ dict ()
+        10% <= lucro <= 20% [ "nome" ] = input ('nome: ') 
+        lucro > 20% ['salario' ] = floaat (input(' salario: ')] 
+        venda.append (venda) 
+
+print('NOME\tSAL\t\tSAL_NOME') 
+for p in venda 
+        
+    
 
 #8. Construa um programa que armazene o código, a quantidade, o valor de compra
 #e o valor de venda de 30 produtos. A listagem pode ser de todos os produtos ou
